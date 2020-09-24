@@ -12,6 +12,6 @@ I advocate for clean code and encourage practices like TDD wherever possible. Ta
 
 ⚡ Fun fact: I'm a big fan of [Boggle](https://en.wikipedia.org/wiki/Boggle), having played online for 15+ years. You can [watch me play](https://www.youtube.com/watch?v=PjC3Vbgva8k) on my YouTube channel. I built my own [solver](https://github.com/lyndseybrowning/node-boggle-solver) because I wanted to understand the algorithm, and I created a [UI](http://lyndseyb.co.uk/boggle-solver/) for it so I could visualise boards being solved in real time.
 
-✍🏼 Read more content at my [website](lyndseyb.co.uk).
+✍🏼 Read more content on my [website](lyndseyb.co.uk).
 
 ✉️ AMA, any time at lbrowning86@gmail.com.
